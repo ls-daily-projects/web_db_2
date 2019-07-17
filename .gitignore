@@ -62,3 +62,7 @@ typings/
 
 # VSCode settings
 .vscode/
+
+# Sqlite DBs
+*.sqlite3
+*.db3
